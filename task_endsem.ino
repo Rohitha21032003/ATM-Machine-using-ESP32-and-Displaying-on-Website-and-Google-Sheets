@@ -10,7 +10,7 @@ const char* password = "qqqqqqqq";  // Hotspot password.
 WiFiServer server(80);
 
 // Google script ID and required credentials.
-String GOOGLE_SCRIPT_ID = "AKfycbw6W8C6JUymyrlu0thOSpqb5lbadJzGuQhCxDaZaFozmW28Ldk1ctp-mqoFB3-Zhus9";
+String GOOGLE_SCRIPT_ID = "<enter-your-script-id";
 
 //declring some variables required globally.
 int var;
